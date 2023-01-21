@@ -1,8 +1,17 @@
-# Getting Started with Create React App
+# Solasta Copy Editor
+
+This app makes a web page with some useful JS. It does not run a server, it only makes the basic HTML and JS.
+
+This web page allows you to upload a Solasta Campaign file, traverse it, and click on Descriptions, Titles, Dialog Lines and other similar written content in the Campaign. 
+
+The main library handling traversing the JSON tree is here
+nickwelp/react-editable-json-tree.git#solasta-changes
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+To get started run `npm i` to install all the required libraries, then `npm start` to spin up the webpage.
+
 
 In the project directory, you can run:
 

@@ -56,7 +56,8 @@ function App() {
       <h1>Solasta Copy Editor</h1>
       </header>
       <div>
-        
+        <p><strong>Upload Campaign, Edit Values, Download Changes in New File.</strong></p>
+        <p>Recommend Firefox Web Browser. Recommend this spellchecking tool, a Firefox plugin - <a href="https://addons.mozilla.org/en-US/firefox/addon/languagetool/">LanguageTool FF Plugin.</a></p>
         <p><strong>Step 1</strong></p>
         <p>Upload your Campaign file</p>
         <p><input type="file" onChange={(event) => readFile(event.target)} /></p>
@@ -71,16 +72,6 @@ function App() {
           editButtonElement={<button>Apply</button>}
           cancelButtonElement={<button>Cancel</button>}
           inputElement={<input style={{padding: '4px'}}/>}
-
-          // getStyle={(keyName) => {
-          //   if (keyName === 'description') {
-          //     return {
-          //       color: 'red'
-          //     };
-          //   }
-          //   return {};
-          // }}
-
          />
 
         <p><strong>Step 3</strong></p>
