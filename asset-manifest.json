@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/solasta-copy-editor/static/css/main.87d6e283.css",
-    "main.js": "/solasta-copy-editor/static/js/main.09883a3a.js",
+    "main.js": "/solasta-copy-editor/static/js/main.2832d882.js",
     "static/js/787.22d019d7.chunk.js": "/solasta-copy-editor/static/js/787.22d019d7.chunk.js",
     "index.html": "/solasta-copy-editor/index.html",
     "main.87d6e283.css.map": "/solasta-copy-editor/static/css/main.87d6e283.css.map",
-    "main.09883a3a.js.map": "/solasta-copy-editor/static/js/main.09883a3a.js.map",
+    "main.2832d882.js.map": "/solasta-copy-editor/static/js/main.2832d882.js.map",
     "787.22d019d7.chunk.js.map": "/solasta-copy-editor/static/js/787.22d019d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87d6e283.css",
-    "static/js/main.09883a3a.js"
+    "static/js/main.2832d882.js"
   ]
 }
